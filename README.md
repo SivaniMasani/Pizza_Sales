@@ -1,0 +1,1 @@
+This project involved performing comprehensive analysis on pizza sales data to uncover insights and trends. The dataset included information on orders, pizza types, sizes, prices, and quantities sold. SQL was utilized to explore the data, answer key business questions, and derive actionable insights.
