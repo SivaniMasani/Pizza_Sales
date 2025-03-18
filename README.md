@@ -1,1 +1,1 @@
-This project involved performing comprehensive analysis on pizza sales data to uncover insights and trends. The dataset included information on orders, pizza types, sizes, prices, and quantities sold. SQL was utilized to explore the data, answer key business questions, and derive actionable insights.
+THESE PROJECTS SHOWCASES MY EXPERTISE IN SQL AND MY ABILITY TO WORK WITH COMPLEX DATA SETS, AND HIGHLIGHTS MY SKILLS IN DATA EXPLORATION, DATA VISUALIZATION, AND DATA ANALYSIS.
