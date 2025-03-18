@@ -1,4 +1,4 @@
-# SQL Projects ![icons8-mysql-logo-48]( https://github.com/SivaniMasani/SQL-PROJECTS/tree/main)
+# SQL Projects !https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.logo.wine%2Flogo%2FMySQL&psig=AOvVaw1YjThc_zzfTjroi2mRkIAB&ust=1742428557379000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJi_xavqlIwDFQAAAAAdAAAAABAE
 
 
 THESE PROJECTS SHOWCASES MY EXPERTISE IN SQL AND MY ABILITY TO WORK WITH COMPLEX DATA SETS, AND HIGHLIGHTS MY SKILLS IN DATA EXPLORATION, DATA VISUALIZATION, AND DATA ANALYSIS.
