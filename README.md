@@ -35,7 +35,7 @@ I utilized SQL to explore the data and answer key business questions to derive a
 
 ## Uncovering Sales Trends at Walmart
 
- [Sales_Trends_at_Walmart.csv] [Sales_Trends_at_Walmart.sql] 
+ [Sales_Trends_at_Walmart.csv] (Sales_Trends_at_Walmart.sql)
 
 
 ## Project Description
