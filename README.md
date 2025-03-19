@@ -5,8 +5,8 @@ THESE PROJECTS SHOWCASES MY EXPERTISE IN SQL AND MY ABILITY TO WORK WITH COMPLEX
 
 ## Pizza Sales Analysis
 
- [ Analyzing Pizza_Sales.sql ]
-
+ [Pizza_Sales.sql] 
+ 
 ## Project Description
 
 This project dives into pizza sales data, leveraging advanced SQL techniques to uncover key insights into sales performance, customer preferences, and revenue trends. Queries cover a range of complexity — from basic aggregation to advanced analytical functions — to derive actionable insights
@@ -35,7 +35,7 @@ I utilized SQL to explore the data and answer key business questions to derive a
 
 ## Uncovering Sales Trends at Walmart
 
- [Sales_Trends_at_Walmart.csv]( Sales_Trends_at_Walmart.sql) 
+ [Sales_Trends_at_Walmart.csv] [Sales_Trends_at_Walmart.sql] 
 
 
 ## Project Description
